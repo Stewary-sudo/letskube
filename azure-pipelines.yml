@@ -10,6 +10,7 @@ resources:
 
 variables:
   # Container registry service connection established during pipeline creation
+  # trying commit
   dockerRegistryServiceConnection: 'dee69069-985f-4659-8d92-e338b17e69ed'
   imageRepository: 'letskube'
   containerRegistry: 'letskubeacr099.azurecr.io'
